@@ -10,7 +10,7 @@
 
 **Reunite people with their lost belongings using the power of AI**
 
-[Live Demo](https://findx.vercel.app) · [Report Bug](https://github.com/MUTHUKUMARAN-K-1/FINDX/issues) · [Request Feature](https://github.com/MUTHUKUMARAN-K-1/FINDX/issues)
+[Live Demo](findx-web.vercel.app) · [Report Bug](https://github.com/MUTHUKUMARAN-K-1/FINDX/issues) · [Request Feature](https://github.com/MUTHUKUMARAN-K-1/FINDX/issues)
 
 </div>
 
