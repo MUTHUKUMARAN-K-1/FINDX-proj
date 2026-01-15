@@ -1,0 +1,55 @@
+# Environment
+env/
+.env
+.env.local
+.env.*.local
+
+# Firebase Config Files 
+frontend/android/app/google-services.json
+frontend/ios/Runner/GoogleService-Info.plist
+frontend/lib/firebase_options.dart
+
+# iOS Config Files (contain API keys)
+frontend/ios/Flutter/Debug.xcconfig
+frontend/ios/Flutter/Release.xcconfig
+
+# Android local properties (contains API keys)
+frontend/android/local.properties
+
+# Dashboard env
+dashboard/.env
+dashboard/.env.local
+
+# API Keys
+*.key
+*.pem
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Build outputs
+build/
+*.aab
+*.ipa
+# Ignore debug APK but allow release APK
+frontend/build/app/outputs/flutter-apk/app-debug.apk
+!frontend/build/app/outputs/flutter-apk/app-release.apk
+
+# Flutter
+frontend/.dart_tool/
+frontend/.packages
+frontend/build/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+
+# Dashboard
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log

@@ -1,0 +1,22 @@
+# Render Blueprint - FindX Instagram API
+# Deploy: render.com → New → Blueprint → Connect repo
+
+services:
+  - type: web
+    name: findx-instagram-api
+    env: python
+    region: singapore
+    plan: free
+    branch: main
+    rootDir: post_automation
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: ACCESS_TOKEN
+        sync: false
+      - key: IG_USER_ID
+        sync: false
+      - key: API_VERSION
+        value: v17.0
+      - key: FIREBASE_STORAGE_BUCKET
+        sync: false

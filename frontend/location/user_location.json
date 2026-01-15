@@ -1,0 +1,17 @@
+{
+  "latitude": 12.918771866834335,
+  "longitude": 80.15337775304593,
+  "accuracy": 70.0,
+  "altitude": 0.0,
+  "speed": 0.0,
+  "speedAccuracy": 0.0,
+  "heading": 0.0,
+  "timestamp": "2026-01-12T14:51:53.162726",
+  "isMock": false,
+  "location": {
+    "placeName": "Unknown",
+    "fullAddress": "Unable to get address"
+  },
+  "lastUpdated": "2026-01-12T14:51:53.162726",
+  "updateIntervalMinutes": 2
+}
