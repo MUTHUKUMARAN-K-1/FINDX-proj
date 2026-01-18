@@ -21,8 +21,8 @@
   <a href="#-features">Features</a> •
   <a href="#-architecture">Architecture</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-setup">Setup</a> •
-  <a href="#-google-technologies">Google Tech</a>
+  <a href="#%EF%B8%8F-setup-instructions">Setup</a> •
+  <a href="#google-technologies-">Google Tech</a>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 | 📱 Mobile App | 📊 Analytics Dashboard |
 |---------------|------------------------|
-| [Download APK](https://github.com/MUTHUKUMARAN-K-1/FIND-X-/releases) | [Live Dashboard](https://findx-dashboard.vercel.app) |
+| [Download APK](https://github.com/MUTHUKUMARAN-K-1/FIND-X-/releases) | [Live Dashboard](https://findx-web-portal.vercel.app/) |
 
 ### Video Demo
 ▶️ [Watch Demo Video](https://drive.google.com/drive/folders/1JMCCAw2xpRtKJjiwLQ57Amkgi1Qtr4uc?usp=drive_link)
